@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @preshy59
-- 👀 I’m interested in Machine Learning, Artificail Intelligence and Data Analytics.
+- 👀 I’m interested in Machine Learning, Artificail Intelligence, Web Development and Data Analytics.
 - 🌱 I’m currently learning Data Analytics, a course offer by Google on Cousera.
-- 💞️ I’m looking to collaborate on any mavhine learning and data analytic project.
+- 💞️ I’m looking to collaborate on any machine learning and data analytic project.
 - 📫 How to reach me  via email @ okemba50@gemail.com
 
 <!---
