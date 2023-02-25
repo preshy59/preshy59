@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @preshy59
+- 👋 Hi, I’m EBELE PRECIOUS OKEMBA
 - 👀 I’m interested in Machine Learning, Artificail Intelligence, Web Development and Data Analytics.
 - 🌱 I’m currently learning Data Analytics, a course offer by Google on Cousera.
 - 💞️ I’m looking to collaborate on any machine learning and data analytic project.
